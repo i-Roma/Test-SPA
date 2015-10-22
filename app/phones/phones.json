@@ -1,0 +1,83 @@
+[
+    {
+        "id": "motorola-xoom-with-wi-fi",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000, 
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg",
+        "name": "Motorola XOOM\u2122 with Wi-Fi",
+        "quantity": 0,
+        "status": "new"
+    }, 
+    {
+        "id": "motorola-xoom",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,  
+        "imageUrl": "img/phones/motorola-xoom.0.jpg", 
+        "name": "MOTOROLA XOOM\u2122", 
+        "quantity": 0,
+        "status": "delivered"
+    }, 
+    {
+        "id": "motorola-atrix-4g",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,    
+        "imageUrl": "img/phones/motorola-atrix-4g.0.jpg", 
+        "name": "MOTOROLA ATRIX\u2122 4G", 
+        "quantity": 0,
+        "status": "canceled"
+    }, 
+    {
+        "id": "dell-streak-7", 
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,  
+        "imageUrl": "img/phones/dell-streak-7.0.jpg", 
+        "name": "Dell Streak 7", 
+        "quantity": 0,
+        "status": "new"
+    }, 
+    {
+        "id": "samsung-gem",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,   
+        "imageUrl": "img/phones/samsung-gem.0.jpg", 
+        "name": "Samsung Gem\u2122", 
+        "quantity": 0,
+        "status": "delivered"
+    }, 
+    {
+        "id": "dell-venue",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,   
+        "imageUrl": "img/phones/dell-venue.0.jpg", 
+        "name": "Dell Venue", 
+        "quantity": 0,
+        "status": "canceled"
+    }, 
+    {
+        "id": "nexus-s",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,  
+        "imageUrl": "img/phones/nexus-s.0.jpg", 
+        "name": "Nexus S", 
+        "quantity": 0,
+        "status": "new"
+    }, 
+    {
+        "id": "lg-axis",
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000,  
+        "imageUrl": "img/phones/lg-axis.0.jpg", 
+        "name": "LG Axis", 
+        "quantity": 0,
+        "status": "delivered"
+    }, 
+    {
+        "id": "samsung-galaxy-tab", 
+        "createDate": 1443200000000, 
+        "changeDate": 1445500000000, 
+        "imageUrl": "img/phones/samsung-galaxy-tab.0.jpg", 
+        "name": "Samsung Galaxy Tab\u2122", 
+        "quantity": 0,
+        "status": "canceled"
+    }
+]

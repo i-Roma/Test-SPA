@@ -1,0 +1,71 @@
+/* app css stylesheet */
+.phone-indent {
+  position: relative;
+  padding: 10px 10px 25px;
+  margin-top: 25px;
+  border: 1px solid lightgrey;
+}
+
+.btn-group {
+  margin: 15px 0 15px 4px;
+}
+
+.delete {
+  color: #fff;
+  font-weight: bold;
+}
+
+.btn-delete {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  left: 0;
+  bottom: 0;
+}
+
+@media screen and (max-width: 990px) {
+
+  .btn-delete {
+    left: 20px;
+  }
+  
+}
+
+.btn-delete-all {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: -20px;
+  bottom: 0;
+}
+
+@media screen and (max-width: 990px) {
+
+  .btn-delete-all {
+    left: -30px;
+  }
+  
+}
+
+@media screen and (max-width: 768px) {
+
+  .btn-delete-all {
+    left: 50%;
+  }
+  
+}
+
+.form-pay {
+  position: absolute;
+
+}
+
+.cart {
+  width: 106%;
+  height: 35px;
+  background: #f8f8f8;
+  color: #777;
+  margin: -10px 0 10px -10px;
+  padding: 7px 0 0 8px;
+  text-align: center;
+}
